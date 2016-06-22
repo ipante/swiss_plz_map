@@ -1,5 +1,7 @@
 # Swiss Postal Codes Map
 
+[![Join the chat at https://gitter.im/ipante/swiss_plz_map](https://badges.gitter.im/ipante/swiss_plz_map.svg)](https://gitter.im/ipante/swiss_plz_map?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This repository provides an example of how to generate a map of postal codes for all Switzerland or only for one canton.
 You can use it on a web site and show your quantitative data for each postal codes.
 
